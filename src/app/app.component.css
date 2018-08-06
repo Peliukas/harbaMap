@@ -1,0 +1,21 @@
+agm-map{
+    height: 600px;
+}
+
+.info-window-image{
+    width: 100%;
+    height: auto;
+}
+
+ul{
+    list-style: none;
+}
+
+.info-window-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    width: 350px;
+    background: white;
+    padding: 10px;
+}
